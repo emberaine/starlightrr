@@ -24,4 +24,4 @@ layout:
 
 # Somone VR
 
-**Somone VR**, or **@Steamingmariocool** is a founder of **Starlight** and is really cool trust.
+**Somone VR**, or **@Steamingmariocool** is a founder of **Starlight**.
